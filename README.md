@@ -17,7 +17,7 @@ Evaluated model accuracy using validation sets and plotted learning curves
 
 Used confusion matrix to analyze per-class performance
 
-Key Features
+📈 Key Features
 
 End-to-end ML pipeline: preprocessing → training → evaluation
 
@@ -27,6 +27,6 @@ Ability to classify multiple wild cat species
 
 Exportable trained model for deployment or integration into applications
 
-Result
+🎯 Result
 
 Created a functional computer vision model capable of identifying wild cats with solid performance, demonstrating experience with CNN architectures, deep learning workflow, and computer vision techniques.
